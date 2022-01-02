@@ -1,0 +1,1 @@
+This is an android app that will allow you to toggle the screen timeout to always be on.
